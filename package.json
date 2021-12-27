@@ -1,0 +1,32 @@
+{
+  "name": "usps-api-client",
+  "description": "USPS Web Tools API Client",
+  "version": "0.0.1",
+  "keywords": [
+    "usps",
+    "api",
+    "client",
+    "web-tools",
+    "address",
+    "validation"
+  ],
+  "homepage": "https://github.com/MarkNBroadhead/usps-api-client",
+  "author": "Mark N Broadhead <MarkNBroadhead@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MarkNBroadhead/usps-api-client.git"
+  },
+  "bugs": {
+    "url": "http://github.com/MarkNBroadhead/usps-api-client/issues"
+  },
+  "main": "./src/index",
+  "license": "MIT",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
